@@ -24,22 +24,20 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G20-00&show_icons=true&theme=tokyonight)
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G20-00&show_icons=true&theme=radical&custom_title=Estadísticas%20de%20GitHub%20desde%20la%20creación%20de%20la%20cuenta&hide_border=true&count_private=true&include_all_commits=true&since=YYYY-MM-DD)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G20-00&show_icons=true&theme=radical&custom_title=Estadísticas%20de%20GitHub%20desde%20la%20creación%20de%20la%20cuenta&hide_border=false&count_private=true&include_all_commits=true&since=YYYY-MM-DD)
 
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G20-00&hide_progress=true&theme=tokyonight)](https://github.com/G20-00/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G20-00&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&show_icons=true&hide=html,css,scss,less&exclude_repo=github-readme-stats,anuraghazra.github.io&custom_title=Most%20Used)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
 
-[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=G20-00&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title=My%20Top%20Languages&show_icons=true&hide=html,css,scss,less&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
