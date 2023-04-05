@@ -15,10 +15,10 @@
 <div>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title= "HTMLS" alt = "HTML" width ="80" height = "80"/> &nbsp;  
 <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title= "PYTHONS" alt = "PYTHON" width ="80" height = "80"/> &nbsp;
-  
+
   
   </div>
-
+________________________________________________________________________________________________________________________________________________________
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=G20-00&theme=dark&locale=es&date_format=M%20j%5B%2C%20Y%5D&since=YYYY-MM-DD)](https://git.io/streak-stats)
 
